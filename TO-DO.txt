@@ -1,0 +1,10 @@
+TO DO:
+
+1) Text centern bzw über gesamte breite skalieren
+2) Hintergrund zum Text hinzufügen
+3) Slideshow wie bei apple
+4) Title scale
+5) Inhalt füllen von headern
+6) Startseite verbessern also wenig text mehr Links und Bilder
+7) Function: Pull dynamicly Hutbe into Freitagspredigt
+8)
