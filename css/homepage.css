@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    max-width: 800px;
+    margin: 0;
+    padding: 20px;
+    background-image: url(./images/BG.jfif);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.mosque-images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.mosque-image {
+    max-width: 30%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+nav a:hover {
+    opacity: 60%;
+    cursor: pointer;
+}
+
+nav a:focus {
+    opacity: 60%;
+    cursor: pointer;
+}
