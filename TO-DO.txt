@@ -7,4 +7,4 @@ TO DO:
 5) Inhalt füllen von headern
 6) Startseite verbessern also wenig text mehr Links und Bilder
 7) Function: Pull dynamicly Hutbe into Freitagspredigt
-8)
+8) Eat Kelek
